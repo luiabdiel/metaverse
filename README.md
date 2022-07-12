@@ -12,7 +12,8 @@ METAVERSE
 
 ![Design preview from the calculator](./assets/image/print-meta.png)
 
-<p align="center"><a href="https://luiabdiel.github.io/super-mario/" target="_blank">Click here</a> to view it</p>
+<!--<p align="center"><a href="https://luiabdiel.github.io/super-mario/" target="_blank">Click here</a> to view it</p>-->
+
 
 <hr>
 
